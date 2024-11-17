@@ -1,7 +1,13 @@
 # **MeowCoinRevolution Whitepaper**
 
+
 ---
 
+## **Note on Updates**
+
+*This whitepaper will be updated periodically as new details, features, and advancements are made to the MeowCoinRevolution project. Keep an eye on this document for the latest developments and modifications to our roadmap, tokenomics, security measures, and overall project vision.*
+
+---
 ## **Table of Contents**
 
 1. [Introduction](#introduction)
