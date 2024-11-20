@@ -65,7 +65,7 @@ Our mission is to empower individuals to contribute to meaningful causes through
 
 ## **3. Roadmap**
 
-### **Phase 1: Initial Development (Q1-Q3 2025)**
+### **Phase 1: Initial Development (Q1 - Q3 2025)**
 - **Build Foundation**: Develop the core MeowCoinRevolution infrastructure and wallet.
 - **Create Partnerships**: Identify organizations focused on animal welfare, education, and healthcare.
 
