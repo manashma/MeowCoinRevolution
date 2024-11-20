@@ -65,15 +65,15 @@ Our mission is to empower individuals to contribute to meaningful causes through
 
 ## **3. Roadmap**
 
-### **Phase 1: Initial Development (2024)**
+### **Phase 1: Initial Development (Q1-Q3 2025)**
 - **Build Foundation**: Develop the core MeowCoinRevolution infrastructure and wallet.
 - **Create Partnerships**: Identify organizations focused on animal welfare, education, and healthcare.
 
-### **Phase 2: Launch and Expansion (2025)**
+### **Phase 2: Launch and Expansion (Q3 2025 - Q1 2026)**
 - **Token Launch**: Officially release MeowCoinRevolution on the Binance Smart Chain (BEP20).
 - **Wallet Release**: Launch our secure MeowCoin wallet for easy transactions.
 
-### **Phase 3: Community Growth (2026)**
+### **Phase 3: Community Growth (Q1 - Q3 2026)**
 - **Expand Support and Partnerships**: Onboard more nonprofit partners and expand donation options.
 - **Introduce Community Rewards**: Recognize and incentivize user contributions.
 
